@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Intellj mac 단축키 모음
+title: JAVA (optional/ junit)
 ---
 <hr>
 1. Optional 클래스
