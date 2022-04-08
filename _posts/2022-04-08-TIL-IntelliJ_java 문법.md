@@ -20,7 +20,7 @@ ofNullable() 메소드는 명시된 값이 null이 아니면 명시된 값을 �
 Optional<String> opt = Optional.ofNullable("자바 Optional 객체");
 
 System.out.println(opt.get()); >> 결과는 ? 자바 Optional 객체
-</hr>
+
 <hr>
 2. Junit Assertions
 
@@ -43,4 +43,3 @@ import static org.assertj.core.api.Assertions.*;
     }
 </code>
 </pre>
-</hr>
